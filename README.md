@@ -18,5 +18,5 @@ Reload plasma shell
 
 
 ## Indicator
-Empty cup = normal auto-suspend and screensaver.
+Empty cup = normal auto-suspend and screensaver.<br>
 Smoky Cup = auto suspend and screensaver off.
