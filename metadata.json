@@ -1,0 +1,19 @@
+{
+  "KPlugin": {
+    "Id": "kde_caffeine",
+    "Author": {
+      "name": "Reajul Hasan Raju",
+      "email": "hello@rhraju.com",
+      "repo": "https://github.com/ujaRHR/kde_caffeine"
+    },
+    "Name": "KDE Caffeine",
+    "Description": "Caffeine applet to prevents screen sleep temporarily",
+    "Version": "0.1_beta",
+    "Category": "Utilities",
+    "Icon": "coffee",
+    "License": "GPL"
+  },
+  "X-Plasma-API": "declarativeappletscript",
+  "X-Plasma-API-Minimum-Version": "6.0",
+  "X-Plasma-MainScript": "contents/ui/main.qml"
+}
