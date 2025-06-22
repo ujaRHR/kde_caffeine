@@ -1,6 +1,5 @@
-# KDE Plasma 6 Caffeine Applet
-
-🏂 This is still under development...
+<h2 align="center">KDE Plasma 6 Caffeine Apple</h2>
+<p align="center">🏂 This is still under development...</p>
 
 
 ## Installation
