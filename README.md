@@ -1,5 +1,5 @@
 <h1 align="center">KDE Caffeine</h1>
-<p align="center">🏂 This is still under development...</p>
+<p align="center">⚠️ The project has been suspended as the current Plasma versions comes pre-built with this feature! Enjoy... </p>
 
 
 ## Installation
